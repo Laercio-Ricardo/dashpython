@@ -1,1 +1,1 @@
-# Dashboard usando Python e Streamli
+# Dashboard usando Python e Streamlit
